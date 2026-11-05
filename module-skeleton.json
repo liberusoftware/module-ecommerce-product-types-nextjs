@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-product-types-nextjs",
+  "capabilityKey": "planned:ecommerce:product-types",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-product-types-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/product-types.md",
+  "presentationPlan": "projects/ecommerce/nextjs/product-types.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
